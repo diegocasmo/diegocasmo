@@ -4,6 +4,6 @@ Architecting software focused on craftsmanship and simple, thoughtful products. 
 
 ### Projects
 
-- 🎸 **[ToneBuilder](https://github.com/diegocasmo/tonebuilder)** - AI-powered preset creation for Line 6 Helix ([tonebuilder.ai](https://tonebuilder.ai/))
+- 🎸 **ToneBuilder** - AI-powered preset creation for Line 6 Helix ([tonebuilder.ai](https://tonebuilder.ai/))
 - 🎯 **[FindMomentum](https://github.com/diegocasmo/findmomentum)** - A productivity app that helps track and celebrate daily progress through small wins ([findmomentum.xyz](https://www.findmomentum.xyz))
 - 💰 **[Pocket Ledger](https://github.com/diegocasmo/pocket-ledger)** - A local-first expense tracker. No accounts. No cloud.
