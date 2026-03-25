@@ -1,6 +1,6 @@
 ## Hi, I'm Diego 👋
 
-Architecting software focused on craftsmanship and simple, thoughtful products. At [Buffer](https://buffer.com/), I work with a fully remote team building tools that help creators and small businesses plan, publish, and analyze their social media so they can grow and connect with their communities.
+Architecting software focused on craftsmanship and simple, thoughtful products. At [Buffer](https://buffer.com/), I work with a fully remote team building tools that help creators and small businesses. Currently exploring systems programming.
 
 ### Projects
 
