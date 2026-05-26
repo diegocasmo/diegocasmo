@@ -1,6 +1,6 @@
 ## Hi, I'm Diego 👋
 
-Architecting software focused on craftsmanship and simple, thoughtful products. At [Buffer](https://buffer.com/), I work with a fully remote team building tools that help creators and small businesses. Currently exploring systems programming.
+Architecting software focused on craftsmanship and simple, thoughtful products. At [Buffer](https://buffer.com/), I work with a fully remote team building tools that help creators and small businesses. Playing jazz [@diegocasmo](https://www.youtube.com/@diegocasmo).
 
 ### Projects
 
