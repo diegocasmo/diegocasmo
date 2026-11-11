@@ -4,7 +4,7 @@ Architecting software focused on craftsmanship and simple, thoughtful products. 
 
 ### Projects
 
-- 🎛️ **[Cipher Machine Studios](https://github.com/diegocasmo/cipher-machine-studios)**: An experimental, AI-driven workflow that mixes and masters a song from its stems
+- 🎛️ **[stemmaster](https://github.com/diegocasmo/stemmaster)**: AI agents mix and master your stems, as code
 - 🎸 **[ToneBuilder](https://www.tonebuilder.ai/)**: AI-powered preset creation for Line 6 Helix ([tonebuilder.ai](https://tonebuilder.ai/))
 - 🎯 **[FindMomentum](https://github.com/diegocasmo/findmomentum)**: A productivity app that helps track and celebrate daily progress through small wins ([findmomentum.xyz](https://www.findmomentum.xyz))
 - 💰 **[Pocket Ledger](https://github.com/diegocasmo/pocket-ledger)** (archived): A local-first expense tracker. No accounts. No cloud. ([pocket-ledger-rho.vercel.app](https://pocket-ledger-rho.vercel.app/calendar))
