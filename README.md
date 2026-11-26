@@ -1,6 +1,6 @@
 ## Hi, I'm Diego 👋
 
-I build simple, thoughtful products. I work with a fully remote team [@buffer.com](https://buffer.com/) building social media tools for creators and small businesses, mostly where products meet AI agents. I also play jazz as [@diegocasmo](https://www.youtube.com/@diegocasmo).
+I build simple, thoughtful products. I work with a fully remote team [@buffer.com](https://buffer.com/) creating social media tools for creators and small businesses, mostly where products meet AI agents. I also play jazz as [@diegocasmo](https://www.youtube.com/@diegocasmo).
 
 ### Projects
 
